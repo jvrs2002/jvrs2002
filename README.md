@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me
 
-From engineering a custom Unix shell and managing multithreaded race conditions, to translating 3D linear algebra into a ray-tracing engine and handling non-blocking sockets, I am particularly interested in understanding exactly how operating systems and networks function under the hood.
+From engineering a custom Unix shell and managing multithreaded race conditions, to translating 3D linear algebra into a ray-tracing engine and handling sockets, I am particularly interested in understanding exactly how things function under the hood.
 
 ### 🏆 Achievements
 
