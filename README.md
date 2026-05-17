@@ -2,9 +2,11 @@
 
 ### 🧑‍💻 About Me
 
-I’m a **42 School** student specializing in system architecture, concurrency, and network programming in C and C++. I don't just use tools; I learn by building their underlying mechanics from scratch.
+From engineering a custom Unix shell and managing multithreaded race conditions, to translating 3D linear algebra into a ray-tracing engine and handling non-blocking sockets, I am particularly interested in understanding exactly how operating systems and networks function under the hood.
 
-From engineering a custom Unix shell and managing multithreaded race conditions, to translating 3D linear algebra into a ray-tracing engine and handling non-blocking sockets, I thrive on understanding exactly how operating systems and networks function under the hood.
+### 🏆 Achievements
+
+- 🏆 **First Place, VisuDrones Hackathon (3-Month Sprint):** Engineered a complete frontend and backend infrastructure for autonomous drone deliveries, using Ardupilot for flight control systems.
 
 ---
 
