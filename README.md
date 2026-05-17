@@ -37,7 +37,7 @@ From engineering a custom Unix shell and managing multithreaded race conditions,
 | **Philosophers** | A simulation solving the Dining Philosophers problem. | Multithreading, Mutexes, Concurrency, Deadlock Prevention | [View Repo](https://github.com/jvrs2002/42.Philosophers) |
 | **NetPractice** | A network administration project focused on configuring routers and subnets. | IP Addressing, Subnet Masking (CIDR), Routing Tables, TCP/IP Layer Mechanics | [View Repo](https://github.com/jvrs2002/42.NetPractice) |
 | **minitalk** | A client-server communication program using strictly UNIX signals. | IPC, Bitwise Operations, Signal Handling (`SIGUSR1`, `SIGUSR2`) | [View Repo](https://github.com/jvrs2002/42.minitalk) |
-| **push_swap** | A highly optimized sorting algorithm manipulating two stacks. | Time Complexity, Radix Sort, Algorithm Optimization | [View Repo](https://github.com/jvrs2002/push_swap) |
+| **push_swap** | A highly optimized sorting algorithm manipulating two stacks. | Time Complexity, QuickSort, Algorithm Optimization | [View Repo](https://github.com/jvrs2002/push_swap) |
 | **get_next_line** | A function that reads a file line by line from a file descriptor. | Static Variables, Buffer Management, I/O Operations | [View Repo](https://github.com/jvrs2002/42.get_next_line) |
 | **ft_printf** | A lightweight reimplementation of the standard C `printf` function. | Variadic Functions, String Parsing, Formatting | [View Repo](https://github.com/jvrs2002/42.ft_printf) |
 | **Libft** | A custom C standard library rebuilt from scratch. | Memory Allocation, Linked Lists, String Manipulation | [View Repo](https://github.com/jvrs2002/42.Libft) |
