@@ -6,7 +6,7 @@ From engineering a custom Unix shell and managing multithreaded race conditions,
 
 ### Achievements
 
-- **First Place, VisuDrones Hackathon (3-Month Sprint):** Engineered a complete frontend and backend infrastructure for autonomous drone deliveries, using Ardupilot for flight control systems.
+- **First Place, VisuDrones Hackathon (3-Month Sprint):** Engineered a complete frontend and backend infrastructure alongside a team for autonomous drone deliveries, using Ardupilot for flight control systems.
 
 ---
 
