@@ -1,19 +1,20 @@
 # 👋 Hi, I'm João Souza
 
-### 🧑‍💻 About Me
+### About Me
 
 From engineering a custom Unix shell and managing multithreaded race conditions, to translating 3D linear algebra into a ray-tracing engine and handling sockets, I am particularly interested in understanding exactly how things function under the hood.
 
-### 🏆 Achievements
+### Achievements
 
-- 🏆 **First Place, VisuDrones Hackathon (3-Month Sprint):** Engineered a complete frontend and backend infrastructure for autonomous drone deliveries, using Ardupilot for flight control systems.
+- **First Place, VisuDrones Hackathon (3-Month Sprint):** Engineered a complete frontend and backend infrastructure for autonomous drone deliveries, using Ardupilot for flight control systems.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,7 +28,7 @@ From engineering a custom Unix shell and managing multithreaded race conditions,
 - **Graphics & Math:** Ray Tracing algorithms, Complex Numbers (Fractals), 3D Vector Mathematics, Event Handling (MiniLibX).
 - **Tools:** Git, GitHub, Makefile, Valgrind, GDB, Docker.
 
-### 🚀 Featured 42 Projects
+### Featured 42 Projects
 
 | Project | Description | Core Concepts | Link |
 |---------|-------------|---------------|------|
