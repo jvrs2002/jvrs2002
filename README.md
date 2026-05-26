@@ -32,6 +32,7 @@ From engineering a custom Unix shell and managing multithreaded race conditions,
 
 | Project | Description | Core Concepts | Link |
 |---------|-------------|---------------|------|
+| **ft_irc (Work in Progress)** | An IRC server built from scratch, enabling real-time multi-client chat. | C++98, Socket API, I/O Multiplexing (poll/select), Network Protocols | [View Repo](https://github.com/jvrs2002/42.ft_irc) |
 | **miniRT** | A basic Ray Tracer engine implemented from scratch in C. | 3D Linear Algebra, Ray-Object Intersections, Phong Shading Model, Camera Matrices | [View Repo](https://github.com/jvrs2002/42.miniRT) |
 | **minishell** | A custom Unix shell implementation featuring lexing, parsing, and execution. | Abstract Syntax Trees, Pipes, File Redirections, Process Forking | [View Repo](https://github.com/jvrs2002/42.minishell) |
 | **fract-ol** | A visually stunning graphical project rendering fractals using the MiniLibX library. | Complex Numbers, Fractal Geometry (Mandelbrot/Julia), Graphical Threads, Zoom/Pan Events | [View Repo](https://github.com/jvrs2002/42.fractol) |
